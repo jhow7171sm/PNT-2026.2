@@ -1,0 +1,78 @@
+/*Este CSS está sendo aplicado no arquivo index.html e coleda de dados*/
+
+*{
+    margin:0%;
+    padding: 0%;
+}
+
+
+ body {
+    background-color: #eeec81;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: top center;
+    background-size: 50%;
+}
+   
+.img67 {
+    text-align: center;
+}
+
+h1 {color: rgb(146, 4, 87);
+    font-size: 20px;
+    text-decoration: blink;
+}
+
+main .btn{
+    background: #d8d8df;
+    border-radius: 20px;
+    padding: 5px;
+
+}
+
+p {color: rgb(236, 118, 27);
+    margin-left: 50px;
+    text-align: justify;
+}
+
+p.vermelho {
+    color:rgb(255, 0, 0);
+    text-decoration: overline;
+}
+
+legend {color: rgba(245, 142, 39, 0.829);}
+
+
+legend.arquivo {
+    color:rgba(182, 8, 115, 0.815);
+    text-decoration: underline;
+}
+
+legend.pesquisa {
+    color: rgb(255, 0, 85);
+    text-decoration: line-through;
+}
+
+legend.email {
+    color:rgb(255, 0, 34);
+    text-decoration: overline;
+}
+
+legend.pagina {
+    color:rgb(255, 0, 149);
+}
+
+
+body {
+     background-color: #eeec81;
+     background-image: url(/back.end/midia/images\ \(1\).jpg);
+     background-repeat: no-repeat;
+     background-attachment: fixed;
+     background-position: top center;
+     background-size: 50%;   
+    }
+
+a { color:#ec8115d3;
+    font-size: 15px;
+    margin-left: 1%;
+}
